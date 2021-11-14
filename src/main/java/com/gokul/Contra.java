@@ -25,7 +25,7 @@ public class Contra {
 	public String dara()
 	{
 		
-		return "hello";
+		return "hi";
 	}
 	@RequestMapping("/ee")
 	public String hello()
