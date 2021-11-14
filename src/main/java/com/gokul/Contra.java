@@ -27,6 +27,12 @@ public class Contra {
 		
 		return "hello";
 	}
+	@RequestMapping("/ee")
+	public String hello()
+	{
+		
+		return "hello";
+	}
 	@GetMapping("/data")
 	public List<Student> dasssra()
 	{
